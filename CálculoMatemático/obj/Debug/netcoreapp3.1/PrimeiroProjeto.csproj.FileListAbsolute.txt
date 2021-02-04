@@ -1,0 +1,13 @@
+C:\Users\user\Projetos\ProjetoC#\PrimeiroProjeto\bin\Debug\netcoreapp3.1\PrimeiroProjeto.exe
+C:\Users\user\Projetos\ProjetoC#\PrimeiroProjeto\bin\Debug\netcoreapp3.1\PrimeiroProjeto.deps.json
+C:\Users\user\Projetos\ProjetoC#\PrimeiroProjeto\bin\Debug\netcoreapp3.1\PrimeiroProjeto.runtimeconfig.json
+C:\Users\user\Projetos\ProjetoC#\PrimeiroProjeto\bin\Debug\netcoreapp3.1\PrimeiroProjeto.runtimeconfig.dev.json
+C:\Users\user\Projetos\ProjetoC#\PrimeiroProjeto\bin\Debug\netcoreapp3.1\PrimeiroProjeto.dll
+C:\Users\user\Projetos\ProjetoC#\PrimeiroProjeto\bin\Debug\netcoreapp3.1\PrimeiroProjeto.pdb
+C:\Users\user\Projetos\ProjetoC#\PrimeiroProjeto\obj\Debug\netcoreapp3.1\PrimeiroProjeto.csprojAssemblyReference.cache
+C:\Users\user\Projetos\ProjetoC#\PrimeiroProjeto\obj\Debug\netcoreapp3.1\PrimeiroProjeto.AssemblyInfoInputs.cache
+C:\Users\user\Projetos\ProjetoC#\PrimeiroProjeto\obj\Debug\netcoreapp3.1\PrimeiroProjeto.AssemblyInfo.cs
+C:\Users\user\Projetos\ProjetoC#\PrimeiroProjeto\obj\Debug\netcoreapp3.1\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\user\Projetos\ProjetoC#\PrimeiroProjeto\obj\Debug\netcoreapp3.1\PrimeiroProjeto.dll
+C:\Users\user\Projetos\ProjetoC#\PrimeiroProjeto\obj\Debug\netcoreapp3.1\PrimeiroProjeto.pdb
+C:\Users\user\Projetos\ProjetoC#\PrimeiroProjeto\obj\Debug\netcoreapp3.1\PrimeiroProjeto.genruntimeconfig.cache
