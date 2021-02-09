@@ -1,0 +1,16 @@
+C:\Users\user\Projetos\ProjetosC#\ExFor\bin\Debug\net5.0\ExFor.exe
+C:\Users\user\Projetos\ProjetosC#\ExFor\bin\Debug\net5.0\ExFor.deps.json
+C:\Users\user\Projetos\ProjetosC#\ExFor\bin\Debug\net5.0\ExFor.runtimeconfig.json
+C:\Users\user\Projetos\ProjetosC#\ExFor\bin\Debug\net5.0\ExFor.runtimeconfig.dev.json
+C:\Users\user\Projetos\ProjetosC#\ExFor\bin\Debug\net5.0\ExFor.dll
+C:\Users\user\Projetos\ProjetosC#\ExFor\bin\Debug\net5.0\ref\ExFor.dll
+C:\Users\user\Projetos\ProjetosC#\ExFor\bin\Debug\net5.0\ExFor.pdb
+C:\Users\user\Projetos\ProjetosC#\ExFor\obj\Debug\net5.0\ExFor.csprojAssemblyReference.cache
+C:\Users\user\Projetos\ProjetosC#\ExFor\obj\Debug\net5.0\ExFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Projetos\ProjetosC#\ExFor\obj\Debug\net5.0\ExFor.AssemblyInfoInputs.cache
+C:\Users\user\Projetos\ProjetosC#\ExFor\obj\Debug\net5.0\ExFor.AssemblyInfo.cs
+C:\Users\user\Projetos\ProjetosC#\ExFor\obj\Debug\net5.0\ExFor.csproj.CoreCompileInputs.cache
+C:\Users\user\Projetos\ProjetosC#\ExFor\obj\Debug\net5.0\ExFor.dll
+C:\Users\user\Projetos\ProjetosC#\ExFor\obj\Debug\net5.0\ref\ExFor.dll
+C:\Users\user\Projetos\ProjetosC#\ExFor\obj\Debug\net5.0\ExFor.pdb
+C:\Users\user\Projetos\ProjetosC#\ExFor\obj\Debug\net5.0\ExFor.genruntimeconfig.cache

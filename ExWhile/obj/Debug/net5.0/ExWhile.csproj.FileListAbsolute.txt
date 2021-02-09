@@ -1,0 +1,16 @@
+C:\Users\user\Projetos\ProjetosC#\ExWhile\bin\Debug\net5.0\ExWhile.exe
+C:\Users\user\Projetos\ProjetosC#\ExWhile\bin\Debug\net5.0\ExWhile.deps.json
+C:\Users\user\Projetos\ProjetosC#\ExWhile\bin\Debug\net5.0\ExWhile.runtimeconfig.json
+C:\Users\user\Projetos\ProjetosC#\ExWhile\bin\Debug\net5.0\ExWhile.runtimeconfig.dev.json
+C:\Users\user\Projetos\ProjetosC#\ExWhile\bin\Debug\net5.0\ExWhile.dll
+C:\Users\user\Projetos\ProjetosC#\ExWhile\bin\Debug\net5.0\ref\ExWhile.dll
+C:\Users\user\Projetos\ProjetosC#\ExWhile\bin\Debug\net5.0\ExWhile.pdb
+C:\Users\user\Projetos\ProjetosC#\ExWhile\obj\Debug\net5.0\ExWhile.csprojAssemblyReference.cache
+C:\Users\user\Projetos\ProjetosC#\ExWhile\obj\Debug\net5.0\ExWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Projetos\ProjetosC#\ExWhile\obj\Debug\net5.0\ExWhile.AssemblyInfoInputs.cache
+C:\Users\user\Projetos\ProjetosC#\ExWhile\obj\Debug\net5.0\ExWhile.AssemblyInfo.cs
+C:\Users\user\Projetos\ProjetosC#\ExWhile\obj\Debug\net5.0\ExWhile.csproj.CoreCompileInputs.cache
+C:\Users\user\Projetos\ProjetosC#\ExWhile\obj\Debug\net5.0\ExWhile.dll
+C:\Users\user\Projetos\ProjetosC#\ExWhile\obj\Debug\net5.0\ref\ExWhile.dll
+C:\Users\user\Projetos\ProjetosC#\ExWhile\obj\Debug\net5.0\ExWhile.pdb
+C:\Users\user\Projetos\ProjetosC#\ExWhile\obj\Debug\net5.0\ExWhile.genruntimeconfig.cache

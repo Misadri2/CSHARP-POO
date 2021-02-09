@@ -1,0 +1,16 @@
+C:\Users\user\Projetos\ProjetosC#\DadosPessoas\obj\Debug\net5.0\DadosPessoas.csprojAssemblyReference.cache
+C:\Users\user\Projetos\ProjetosC#\DadosPessoas\obj\Debug\net5.0\DadosPessoas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Projetos\ProjetosC#\DadosPessoas\obj\Debug\net5.0\DadosPessoas.AssemblyInfoInputs.cache
+C:\Users\user\Projetos\ProjetosC#\DadosPessoas\obj\Debug\net5.0\DadosPessoas.AssemblyInfo.cs
+C:\Users\user\Projetos\ProjetosC#\DadosPessoas\obj\Debug\net5.0\DadosPessoas.csproj.CoreCompileInputs.cache
+C:\Users\user\Projetos\ProjetosC#\DadosPessoas\bin\Debug\net5.0\DadosPessoas.exe
+C:\Users\user\Projetos\ProjetosC#\DadosPessoas\bin\Debug\net5.0\DadosPessoas.deps.json
+C:\Users\user\Projetos\ProjetosC#\DadosPessoas\bin\Debug\net5.0\DadosPessoas.runtimeconfig.json
+C:\Users\user\Projetos\ProjetosC#\DadosPessoas\bin\Debug\net5.0\DadosPessoas.runtimeconfig.dev.json
+C:\Users\user\Projetos\ProjetosC#\DadosPessoas\bin\Debug\net5.0\DadosPessoas.dll
+C:\Users\user\Projetos\ProjetosC#\DadosPessoas\bin\Debug\net5.0\ref\DadosPessoas.dll
+C:\Users\user\Projetos\ProjetosC#\DadosPessoas\bin\Debug\net5.0\DadosPessoas.pdb
+C:\Users\user\Projetos\ProjetosC#\DadosPessoas\obj\Debug\net5.0\DadosPessoas.dll
+C:\Users\user\Projetos\ProjetosC#\DadosPessoas\obj\Debug\net5.0\ref\DadosPessoas.dll
+C:\Users\user\Projetos\ProjetosC#\DadosPessoas\obj\Debug\net5.0\DadosPessoas.pdb
+C:\Users\user\Projetos\ProjetosC#\DadosPessoas\obj\Debug\net5.0\DadosPessoas.genruntimeconfig.cache

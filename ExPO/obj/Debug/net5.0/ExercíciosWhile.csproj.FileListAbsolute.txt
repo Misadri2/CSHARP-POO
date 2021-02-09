@@ -1,0 +1,16 @@
+C:\Users\user\Projetos\ProjetosC#\ExercíciosWhile\bin\Debug\net5.0\ExercíciosWhile.exe
+C:\Users\user\Projetos\ProjetosC#\ExercíciosWhile\bin\Debug\net5.0\ExercíciosWhile.deps.json
+C:\Users\user\Projetos\ProjetosC#\ExercíciosWhile\bin\Debug\net5.0\ExercíciosWhile.runtimeconfig.json
+C:\Users\user\Projetos\ProjetosC#\ExercíciosWhile\bin\Debug\net5.0\ExercíciosWhile.runtimeconfig.dev.json
+C:\Users\user\Projetos\ProjetosC#\ExercíciosWhile\bin\Debug\net5.0\ExercíciosWhile.dll
+C:\Users\user\Projetos\ProjetosC#\ExercíciosWhile\bin\Debug\net5.0\ref\ExercíciosWhile.dll
+C:\Users\user\Projetos\ProjetosC#\ExercíciosWhile\bin\Debug\net5.0\ExercíciosWhile.pdb
+C:\Users\user\Projetos\ProjetosC#\ExercíciosWhile\obj\Debug\net5.0\ExercíciosWhile.csprojAssemblyReference.cache
+C:\Users\user\Projetos\ProjetosC#\ExercíciosWhile\obj\Debug\net5.0\ExercíciosWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Projetos\ProjetosC#\ExercíciosWhile\obj\Debug\net5.0\ExercíciosWhile.AssemblyInfoInputs.cache
+C:\Users\user\Projetos\ProjetosC#\ExercíciosWhile\obj\Debug\net5.0\ExercíciosWhile.AssemblyInfo.cs
+C:\Users\user\Projetos\ProjetosC#\ExercíciosWhile\obj\Debug\net5.0\ExercíciosWhile.csproj.CoreCompileInputs.cache
+C:\Users\user\Projetos\ProjetosC#\ExercíciosWhile\obj\Debug\net5.0\ExercíciosWhile.dll
+C:\Users\user\Projetos\ProjetosC#\ExercíciosWhile\obj\Debug\net5.0\ref\ExercíciosWhile.dll
+C:\Users\user\Projetos\ProjetosC#\ExercíciosWhile\obj\Debug\net5.0\ExercíciosWhile.pdb
+C:\Users\user\Projetos\ProjetosC#\ExercíciosWhile\obj\Debug\net5.0\ExercíciosWhile.genruntimeconfig.cache
