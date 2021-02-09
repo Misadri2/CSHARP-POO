@@ -19,11 +19,9 @@ namespace AreaTriangulo
             t2.B = double.Parse(Console.ReadLine());
             t2.C = double.Parse(Console.ReadLine());
 
-            double p = (t.A + t.B + t.C) /2.0;
-            double areat = Math.Sqrt(p*(p-t.A)*(p-t.B)*(p-t.C));
+            double areat = t.Area();
 
-            double p2 = (t2.A + t2.B + t2.C) /2.0;
-            double areat2 = Math.Sqrt(p*(p-t2.A)*(p-t2.B)*(p-t2.C));
+            double areat2 = t2.Area();
 
             Console.WriteLine("Area do t " + areat);
             Console.WriteLine("Area do t2 " + areat2);

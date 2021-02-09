@@ -1,0 +1,16 @@
+C:\Users\user\Projetos\MediaAluno\obj\Debug\net5.0\MediaAluno.csprojAssemblyReference.cache
+C:\Users\user\Projetos\MediaAluno\obj\Debug\net5.0\MediaAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Projetos\MediaAluno\obj\Debug\net5.0\MediaAluno.AssemblyInfoInputs.cache
+C:\Users\user\Projetos\MediaAluno\obj\Debug\net5.0\MediaAluno.AssemblyInfo.cs
+C:\Users\user\Projetos\MediaAluno\obj\Debug\net5.0\MediaAluno.csproj.CoreCompileInputs.cache
+C:\Users\user\Projetos\MediaAluno\bin\Debug\net5.0\MediaAluno.exe
+C:\Users\user\Projetos\MediaAluno\bin\Debug\net5.0\MediaAluno.deps.json
+C:\Users\user\Projetos\MediaAluno\bin\Debug\net5.0\MediaAluno.runtimeconfig.json
+C:\Users\user\Projetos\MediaAluno\bin\Debug\net5.0\MediaAluno.runtimeconfig.dev.json
+C:\Users\user\Projetos\MediaAluno\bin\Debug\net5.0\MediaAluno.dll
+C:\Users\user\Projetos\MediaAluno\bin\Debug\net5.0\ref\MediaAluno.dll
+C:\Users\user\Projetos\MediaAluno\bin\Debug\net5.0\MediaAluno.pdb
+C:\Users\user\Projetos\MediaAluno\obj\Debug\net5.0\MediaAluno.dll
+C:\Users\user\Projetos\MediaAluno\obj\Debug\net5.0\ref\MediaAluno.dll
+C:\Users\user\Projetos\MediaAluno\obj\Debug\net5.0\MediaAluno.pdb
+C:\Users\user\Projetos\MediaAluno\obj\Debug\net5.0\MediaAluno.genruntimeconfig.cache

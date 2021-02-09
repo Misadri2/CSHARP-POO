@@ -1,0 +1,13 @@
+C:\Users\user\Projetos\TesteC#\OrientaçãoAObjetos\bin\Debug\netcoreapp3.1\OrientaçãoAObjetos.exe
+C:\Users\user\Projetos\TesteC#\OrientaçãoAObjetos\bin\Debug\netcoreapp3.1\OrientaçãoAObjetos.deps.json
+C:\Users\user\Projetos\TesteC#\OrientaçãoAObjetos\bin\Debug\netcoreapp3.1\OrientaçãoAObjetos.runtimeconfig.json
+C:\Users\user\Projetos\TesteC#\OrientaçãoAObjetos\bin\Debug\netcoreapp3.1\OrientaçãoAObjetos.runtimeconfig.dev.json
+C:\Users\user\Projetos\TesteC#\OrientaçãoAObjetos\bin\Debug\netcoreapp3.1\OrientaçãoAObjetos.dll
+C:\Users\user\Projetos\TesteC#\OrientaçãoAObjetos\bin\Debug\netcoreapp3.1\OrientaçãoAObjetos.pdb
+C:\Users\user\Projetos\TesteC#\OrientaçãoAObjetos\obj\Debug\netcoreapp3.1\OrientaçãoAObjetos.csprojAssemblyReference.cache
+C:\Users\user\Projetos\TesteC#\OrientaçãoAObjetos\obj\Debug\netcoreapp3.1\OrientaçãoAObjetos.AssemblyInfoInputs.cache
+C:\Users\user\Projetos\TesteC#\OrientaçãoAObjetos\obj\Debug\netcoreapp3.1\OrientaçãoAObjetos.AssemblyInfo.cs
+C:\Users\user\Projetos\TesteC#\OrientaçãoAObjetos\obj\Debug\netcoreapp3.1\OrientaçãoAObjetos.csproj.CoreCompileInputs.cache
+C:\Users\user\Projetos\TesteC#\OrientaçãoAObjetos\obj\Debug\netcoreapp3.1\OrientaçãoAObjetos.dll
+C:\Users\user\Projetos\TesteC#\OrientaçãoAObjetos\obj\Debug\netcoreapp3.1\OrientaçãoAObjetos.pdb
+C:\Users\user\Projetos\TesteC#\OrientaçãoAObjetos\obj\Debug\netcoreapp3.1\OrientaçãoAObjetos.genruntimeconfig.cache

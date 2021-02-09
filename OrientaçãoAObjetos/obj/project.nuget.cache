@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VB/70i4nDCmvWb93D9TdhTDWPmePUV3QRoTS29oIhjrpbdielBMKt+qvEM/DNT1sIDrQWWNPlmtREdvDy6vFDw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Projetos\\TesteC#\\OrientaçãoAObjetos\\OrientaçãoAObjetos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.11\\microsoft.netcore.app.host.win-x64.3.1.11.nupkg.sha512"
+  ],
+  "logs": []
+}

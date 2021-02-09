@@ -1,3 +1,5 @@
+using System;  // precisou ser colocado por causa do Math 
+
 namespace AreaTriangulo
 {
     public class Triangulo
@@ -6,5 +8,11 @@ namespace AreaTriangulo
         public double B;
         public double C;
 
+        public double Area() {
+            double p = (A + B + C) /2.0;
+            return Math.Sqrt(p*(p-A) * (p-B) * (p-C));
+        }
+
     }
+
 }
