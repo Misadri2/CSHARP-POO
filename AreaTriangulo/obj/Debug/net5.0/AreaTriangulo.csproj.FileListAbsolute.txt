@@ -1,0 +1,16 @@
+C:\Users\user\Projetos\ProjetosC#\AreaTriangulo\bin\Debug\net5.0\AreaTriangulo.exe
+C:\Users\user\Projetos\ProjetosC#\AreaTriangulo\bin\Debug\net5.0\AreaTriangulo.deps.json
+C:\Users\user\Projetos\ProjetosC#\AreaTriangulo\bin\Debug\net5.0\AreaTriangulo.runtimeconfig.json
+C:\Users\user\Projetos\ProjetosC#\AreaTriangulo\bin\Debug\net5.0\AreaTriangulo.runtimeconfig.dev.json
+C:\Users\user\Projetos\ProjetosC#\AreaTriangulo\bin\Debug\net5.0\AreaTriangulo.dll
+C:\Users\user\Projetos\ProjetosC#\AreaTriangulo\bin\Debug\net5.0\ref\AreaTriangulo.dll
+C:\Users\user\Projetos\ProjetosC#\AreaTriangulo\bin\Debug\net5.0\AreaTriangulo.pdb
+C:\Users\user\Projetos\ProjetosC#\AreaTriangulo\obj\Debug\net5.0\AreaTriangulo.csprojAssemblyReference.cache
+C:\Users\user\Projetos\ProjetosC#\AreaTriangulo\obj\Debug\net5.0\AreaTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Projetos\ProjetosC#\AreaTriangulo\obj\Debug\net5.0\AreaTriangulo.AssemblyInfoInputs.cache
+C:\Users\user\Projetos\ProjetosC#\AreaTriangulo\obj\Debug\net5.0\AreaTriangulo.AssemblyInfo.cs
+C:\Users\user\Projetos\ProjetosC#\AreaTriangulo\obj\Debug\net5.0\AreaTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\user\Projetos\ProjetosC#\AreaTriangulo\obj\Debug\net5.0\AreaTriangulo.dll
+C:\Users\user\Projetos\ProjetosC#\AreaTriangulo\obj\Debug\net5.0\ref\AreaTriangulo.dll
+C:\Users\user\Projetos\ProjetosC#\AreaTriangulo\obj\Debug\net5.0\AreaTriangulo.pdb
+C:\Users\user\Projetos\ProjetosC#\AreaTriangulo\obj\Debug\net5.0\AreaTriangulo.genruntimeconfig.cache
