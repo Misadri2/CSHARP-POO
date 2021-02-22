@@ -1,0 +1,16 @@
+C:\Users\user\Projetos\ProjetosC#\MediaVetores\bin\Debug\net5.0\MediaVetores.exe
+C:\Users\user\Projetos\ProjetosC#\MediaVetores\bin\Debug\net5.0\MediaVetores.deps.json
+C:\Users\user\Projetos\ProjetosC#\MediaVetores\bin\Debug\net5.0\MediaVetores.runtimeconfig.json
+C:\Users\user\Projetos\ProjetosC#\MediaVetores\bin\Debug\net5.0\MediaVetores.runtimeconfig.dev.json
+C:\Users\user\Projetos\ProjetosC#\MediaVetores\bin\Debug\net5.0\MediaVetores.dll
+C:\Users\user\Projetos\ProjetosC#\MediaVetores\bin\Debug\net5.0\ref\MediaVetores.dll
+C:\Users\user\Projetos\ProjetosC#\MediaVetores\bin\Debug\net5.0\MediaVetores.pdb
+C:\Users\user\Projetos\ProjetosC#\MediaVetores\obj\Debug\net5.0\MediaVetores.csprojAssemblyReference.cache
+C:\Users\user\Projetos\ProjetosC#\MediaVetores\obj\Debug\net5.0\MediaVetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Projetos\ProjetosC#\MediaVetores\obj\Debug\net5.0\MediaVetores.AssemblyInfoInputs.cache
+C:\Users\user\Projetos\ProjetosC#\MediaVetores\obj\Debug\net5.0\MediaVetores.AssemblyInfo.cs
+C:\Users\user\Projetos\ProjetosC#\MediaVetores\obj\Debug\net5.0\MediaVetores.csproj.CoreCompileInputs.cache
+C:\Users\user\Projetos\ProjetosC#\MediaVetores\obj\Debug\net5.0\MediaVetores.dll
+C:\Users\user\Projetos\ProjetosC#\MediaVetores\obj\Debug\net5.0\ref\MediaVetores.dll
+C:\Users\user\Projetos\ProjetosC#\MediaVetores\obj\Debug\net5.0\MediaVetores.pdb
+C:\Users\user\Projetos\ProjetosC#\MediaVetores\obj\Debug\net5.0\MediaVetores.genruntimeconfig.cache
