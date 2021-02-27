@@ -1,0 +1,16 @@
+C:\Users\user\Projetos\ProjetosC#\SwitchCase\bin\Debug\net5.0\SwitchCase.exe
+C:\Users\user\Projetos\ProjetosC#\SwitchCase\bin\Debug\net5.0\SwitchCase.deps.json
+C:\Users\user\Projetos\ProjetosC#\SwitchCase\bin\Debug\net5.0\SwitchCase.runtimeconfig.json
+C:\Users\user\Projetos\ProjetosC#\SwitchCase\bin\Debug\net5.0\SwitchCase.runtimeconfig.dev.json
+C:\Users\user\Projetos\ProjetosC#\SwitchCase\bin\Debug\net5.0\SwitchCase.dll
+C:\Users\user\Projetos\ProjetosC#\SwitchCase\bin\Debug\net5.0\ref\SwitchCase.dll
+C:\Users\user\Projetos\ProjetosC#\SwitchCase\bin\Debug\net5.0\SwitchCase.pdb
+C:\Users\user\Projetos\ProjetosC#\SwitchCase\obj\Debug\net5.0\SwitchCase.csprojAssemblyReference.cache
+C:\Users\user\Projetos\ProjetosC#\SwitchCase\obj\Debug\net5.0\SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Projetos\ProjetosC#\SwitchCase\obj\Debug\net5.0\SwitchCase.AssemblyInfoInputs.cache
+C:\Users\user\Projetos\ProjetosC#\SwitchCase\obj\Debug\net5.0\SwitchCase.AssemblyInfo.cs
+C:\Users\user\Projetos\ProjetosC#\SwitchCase\obj\Debug\net5.0\SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\user\Projetos\ProjetosC#\SwitchCase\obj\Debug\net5.0\SwitchCase.dll
+C:\Users\user\Projetos\ProjetosC#\SwitchCase\obj\Debug\net5.0\ref\SwitchCase.dll
+C:\Users\user\Projetos\ProjetosC#\SwitchCase\obj\Debug\net5.0\SwitchCase.pdb
+C:\Users\user\Projetos\ProjetosC#\SwitchCase\obj\Debug\net5.0\SwitchCase.genruntimeconfig.cache
