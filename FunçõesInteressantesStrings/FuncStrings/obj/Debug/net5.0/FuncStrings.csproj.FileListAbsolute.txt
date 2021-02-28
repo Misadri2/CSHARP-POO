@@ -1,0 +1,16 @@
+C:\Users\user\Projetos\ProjetosC#\FunçõesInteressantesStrings\FuncStrings\bin\Debug\net5.0\FuncStrings.exe
+C:\Users\user\Projetos\ProjetosC#\FunçõesInteressantesStrings\FuncStrings\bin\Debug\net5.0\FuncStrings.deps.json
+C:\Users\user\Projetos\ProjetosC#\FunçõesInteressantesStrings\FuncStrings\bin\Debug\net5.0\FuncStrings.runtimeconfig.json
+C:\Users\user\Projetos\ProjetosC#\FunçõesInteressantesStrings\FuncStrings\bin\Debug\net5.0\FuncStrings.runtimeconfig.dev.json
+C:\Users\user\Projetos\ProjetosC#\FunçõesInteressantesStrings\FuncStrings\bin\Debug\net5.0\FuncStrings.dll
+C:\Users\user\Projetos\ProjetosC#\FunçõesInteressantesStrings\FuncStrings\bin\Debug\net5.0\ref\FuncStrings.dll
+C:\Users\user\Projetos\ProjetosC#\FunçõesInteressantesStrings\FuncStrings\bin\Debug\net5.0\FuncStrings.pdb
+C:\Users\user\Projetos\ProjetosC#\FunçõesInteressantesStrings\FuncStrings\obj\Debug\net5.0\FuncStrings.csprojAssemblyReference.cache
+C:\Users\user\Projetos\ProjetosC#\FunçõesInteressantesStrings\FuncStrings\obj\Debug\net5.0\FuncStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Projetos\ProjetosC#\FunçõesInteressantesStrings\FuncStrings\obj\Debug\net5.0\FuncStrings.AssemblyInfoInputs.cache
+C:\Users\user\Projetos\ProjetosC#\FunçõesInteressantesStrings\FuncStrings\obj\Debug\net5.0\FuncStrings.AssemblyInfo.cs
+C:\Users\user\Projetos\ProjetosC#\FunçõesInteressantesStrings\FuncStrings\obj\Debug\net5.0\FuncStrings.csproj.CoreCompileInputs.cache
+C:\Users\user\Projetos\ProjetosC#\FunçõesInteressantesStrings\FuncStrings\obj\Debug\net5.0\FuncStrings.dll
+C:\Users\user\Projetos\ProjetosC#\FunçõesInteressantesStrings\FuncStrings\obj\Debug\net5.0\ref\FuncStrings.dll
+C:\Users\user\Projetos\ProjetosC#\FunçõesInteressantesStrings\FuncStrings\obj\Debug\net5.0\FuncStrings.pdb
+C:\Users\user\Projetos\ProjetosC#\FunçõesInteressantesStrings\FuncStrings\obj\Debug\net5.0\FuncStrings.genruntimeconfig.cache
