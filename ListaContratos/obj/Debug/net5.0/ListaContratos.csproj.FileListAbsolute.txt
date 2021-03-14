@@ -1,0 +1,16 @@
+C:\Users\user\Projetos\ProjetosC#\ListaContratos\bin\Debug\net5.0\ListaContratos.exe
+C:\Users\user\Projetos\ProjetosC#\ListaContratos\bin\Debug\net5.0\ListaContratos.deps.json
+C:\Users\user\Projetos\ProjetosC#\ListaContratos\bin\Debug\net5.0\ListaContratos.runtimeconfig.json
+C:\Users\user\Projetos\ProjetosC#\ListaContratos\bin\Debug\net5.0\ListaContratos.runtimeconfig.dev.json
+C:\Users\user\Projetos\ProjetosC#\ListaContratos\bin\Debug\net5.0\ListaContratos.dll
+C:\Users\user\Projetos\ProjetosC#\ListaContratos\bin\Debug\net5.0\ref\ListaContratos.dll
+C:\Users\user\Projetos\ProjetosC#\ListaContratos\bin\Debug\net5.0\ListaContratos.pdb
+C:\Users\user\Projetos\ProjetosC#\ListaContratos\obj\Debug\net5.0\ListaContratos.csprojAssemblyReference.cache
+C:\Users\user\Projetos\ProjetosC#\ListaContratos\obj\Debug\net5.0\ListaContratos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Projetos\ProjetosC#\ListaContratos\obj\Debug\net5.0\ListaContratos.AssemblyInfoInputs.cache
+C:\Users\user\Projetos\ProjetosC#\ListaContratos\obj\Debug\net5.0\ListaContratos.AssemblyInfo.cs
+C:\Users\user\Projetos\ProjetosC#\ListaContratos\obj\Debug\net5.0\ListaContratos.csproj.CoreCompileInputs.cache
+C:\Users\user\Projetos\ProjetosC#\ListaContratos\obj\Debug\net5.0\ListaContratos.dll
+C:\Users\user\Projetos\ProjetosC#\ListaContratos\obj\Debug\net5.0\ref\ListaContratos.dll
+C:\Users\user\Projetos\ProjetosC#\ListaContratos\obj\Debug\net5.0\ListaContratos.pdb
+C:\Users\user\Projetos\ProjetosC#\ListaContratos\obj\Debug\net5.0\ListaContratos.genruntimeconfig.cache
