@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Globalization;
 using ListaContratos.Entities;
+using ListaContratos.Entities.Enums;
 
 namespace ListaContratos
 {

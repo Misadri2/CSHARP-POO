@@ -1,7 +1,7 @@
 using System;
-namespace ListaContratos.Entities
+namespace ListaContratos.Entities.Enums
 {
-    enum WorkerLevel : int
+    public enum WorkerLevel : int
     {
         Junior = 0,
         MidLevel = 1,

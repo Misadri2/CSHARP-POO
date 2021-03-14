@@ -1,14 +1,14 @@
 using System;
 using System.Collections.Generic;
-using ListaContratos.Entities;
+using ListaContratos.Entities.Enums;
 
 
 namespace ListaContratos.Entities
 {
-    public class Worker
+     class Worker
     {
         public string Name { get; set; }
-        public WorkerLevel Level {get; set; }              //* Associação com outras classes
+        public WorkerLevel Level {get; set; }             //* Associação com outras classes
         public double BaseSalary { get; set; }
         public Department Department { get; set; }         //* Associação com outras classes
         public List<HourContract> Contracts { get; private set; } = new List<HourContract>();
